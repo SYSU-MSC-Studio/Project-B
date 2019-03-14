@@ -6,6 +6,7 @@ impleting a simple database
 ## Schedule
 - 12/09 Init repo
 - 01/28 Still learning
+- 03/15 Lauch our project
 
 ## Version Updates
 - ...
