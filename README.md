@@ -1,3 +1,3 @@
 # Release branch
 
-This branch is for application releazation.
+This branch is for release.
