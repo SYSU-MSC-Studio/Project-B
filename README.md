@@ -1,2 +1,2 @@
 # Develop branch
-This branch is used for new version develop.
+This branch is used for new version development.
