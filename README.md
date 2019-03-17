@@ -1,12 +1,3 @@
-# Project B
+# Feature branch
 
-## introduction
-impleting a simple database
-
-## Schedule
-- 12/09 Init repo
-- 01/28 Still learning
-- 03/15 Launch our project
-
-## Version Updates
-- ...
+This branch is for new features creating.
