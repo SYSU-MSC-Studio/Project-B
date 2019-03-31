@@ -11,7 +11,7 @@ Implementing a simple database.
 
 ## Schedule
 - 03/24 Make a simple database
-- 03/31 Make a detailed schedule
+- 03/31 Make a detailed [schedule] (https://github.com/SYSU-MSC-Studio/Project-B/blob/master/Schedule.md).
 
 ## Version Updates
 - ...
