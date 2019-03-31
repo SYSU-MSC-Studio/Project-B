@@ -11,6 +11,7 @@ Implementing a simple database.
 
 ## Schedule
 - 03/24 Make a simple database
+- 03/31 Make a detailed schedule
 
 ## Version Updates
 - ...
